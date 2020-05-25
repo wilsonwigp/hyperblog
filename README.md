@@ -8,5 +8,6 @@ Un blog increíble.
 * Telecomunicaciones
 * Informatica
 * Machine Learning
+* Creado por el increible platziteam
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Si llegas acá NO TE LO TOMES EN SERIO.
