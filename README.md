@@ -10,5 +10,6 @@ Un blog increíble.
 * Machine Learning
 * Creado por el increible platziteam
 * Dando ejemplos en linux windows y mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Si llegas acá NO TE LO TOMES EN SERIO.
